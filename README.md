@@ -2,6 +2,8 @@
 
 A web application with user and blog modules. The user module provides APIs for registration, login, and logout, while the blog module offers APIs for CRUD operations on blogs and a blog list API with a search option for title and content. The project is dockerized and can be run using Docker Compose.
 
+User authentication is implemented by restframework token authentication.
+
 ## Table of Contents
 - [Installation](#installation)
 - [Usage](#usage)
